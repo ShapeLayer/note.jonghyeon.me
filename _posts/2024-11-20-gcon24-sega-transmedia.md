@@ -2,7 +2,7 @@
 layout: post
 title: "G-CON 24/디즈니에서 세가까지: 세계적 수준의 지적 재산권 관리 방법"
 date: '2024-11-20'
-categories: [review/g-con24]
+categories: [gstar24]
 tags: [review, g-con24, conference, conference-summary]
 ---
 

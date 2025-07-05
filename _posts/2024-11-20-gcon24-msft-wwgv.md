@@ -2,7 +2,7 @@
 layout: post
 title: "G-CON 24/게임에 진심인 마이크로소프트"
 date: '2024-11-20'
-categories: [review/g-con24]
+categories: [gstar24]
 tags: [review, g-con24, conference, conference-summary]
 ---
 

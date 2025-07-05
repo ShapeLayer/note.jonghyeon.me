@@ -2,7 +2,7 @@
 layout: post
 title: G-CON 24/다면적 감성 가치에 대한 요구 - 급변하는 환경에서 진화하는 유저들의 니즈 충족하기
 date: '2024-11-20'
-categories: [review/g-con24]
+categories: [gstar24]
 tags: [review, g-con24, conference, conference-summary]
 ---
 

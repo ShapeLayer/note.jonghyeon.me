@@ -2,7 +2,7 @@
 layout: post
 title: "G-CON 24/소울라이크 장르 열풍에 관하여 논하다"
 date: '2024-11-20'
-categories: [review/g-con24]
+categories: [gstar24]
 tags: [review, g-con24, conference, conference-summary]
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "G-CON 24/AI 시대의 이차원 게임 개발"
 date: '2024-11-20'
-categories: [review/g-con24]
+categories: [gstar24]
 tags: [review, g-con24, conference, conference-summary]
 ---
 

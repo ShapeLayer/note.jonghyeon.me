@@ -2,7 +2,7 @@
 layout: post
 title: "G-CON 24/2024년 이후의 Steam과 PC 게임"
 date: '2024-11-20'
-categories: [review/g-con24]
+categories: [gstar24]
 tags: [review, g-con24, conference, conference-summary]
 ---
 
