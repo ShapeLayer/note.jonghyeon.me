@@ -6,7 +6,7 @@ categories: [gstar24]
 tags: [review, g-con24, conference, conference-summary]
 ---
 
-_김병수, "게임에 진심인 마이크로소프트" G-CON 2024 세션 @ G-STAR 2024_
+_김병수 등, 마이크로소프트, "게임에 진심인 마이크로소프트" G-CON 2024 세션 @ G-STAR 2024_
 
 ## 도입
 

@@ -6,7 +6,7 @@ categories: [gstar24]
 tags: [review, g-con24, conference, conference-summary]
 ---
 
-_저스틴 스카폰, "디즈니에서 세가까지: 세계적 수준의 지적 재산권 관리 방법" G-CON 2024 세션 @ G-STAR 2024_
+_저스틴 스카폰, 세가, "디즈니에서 세가까지: 세계적 수준의 지적 재산권 관리 방법" G-CON 2024 세션 @ G-STAR 2024_
 
 ## 도입
 

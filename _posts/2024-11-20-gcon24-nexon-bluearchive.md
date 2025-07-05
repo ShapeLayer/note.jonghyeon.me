@@ -6,7 +6,7 @@ categories: [gstar24]
 tags: [review, g-con24, conference, conference-summary]
 ---
 
-_김용하, "AI 시대의 이차원 게임 개발" G-CON 2024 세션 @ G-STAR 2024_
+_김용하, 넥슨게임즈, "AI 시대의 이차원 게임 개발" G-CON 2024 세션 @ G-STAR 2024_
 
 ## 도입
 
