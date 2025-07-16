@@ -12,7 +12,7 @@ tags: [language, terms]
 
 이전에는 낯선 프로그래밍 언어의 문법을 확인하기 위해 "Ruby for loop statement"와 "Ruby for loop expression"을 혼용해서 검색했다.  
 
-하지만 엄밀히 말해 두 단어는 확실히 구분되어야 한다. "Ruby for loop statement"는 틀린 표현이다.  
+하지만 엄밀히 말해 두 단어는 확실히 구분되어야 한다. "Ruby for loop expression"는 틀린 표현이다.  
 
 <br />
 
