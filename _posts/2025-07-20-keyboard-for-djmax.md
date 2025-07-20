@@ -58,7 +58,7 @@ COM-NO 스위치는 [거성 엔지니어링의 Micro Switch V형, GSM-V0303A06](
 
 아두이노를 제어 보드로 사용한다면, 사용하고자 하는 보드가 HID 키보드 라이브러리를 지원하는지 확인해야 한다.
 
-[Keyboard | Arduino Documentation](https://docs.arduino.cc/library/keyboard)
+[Keyboard, Arduino Documentation](https://docs.arduino.cc/library/keyboard)
 
 2024년 하반기 기준으로 키보드 라이브러리를 지원하는 보드 중 아두이노 레오나르도가 가장 저렴하다.  
 
