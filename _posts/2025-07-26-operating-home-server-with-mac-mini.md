@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 맥미니를 홈 서버로 사용하기
+title: 맥 미니를 홈 서버로 사용하기
 date: '2025-07-26'
 categories: [report]
 tags: [report]
