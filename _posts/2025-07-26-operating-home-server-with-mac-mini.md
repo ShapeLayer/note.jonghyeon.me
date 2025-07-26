@@ -42,7 +42,7 @@ java.lang.NullPointerException: Cannot invoke "String.toUpperCase()" because "th
 
 VPN 구축에는 와이어가드를 사용했다. 와이어가드는 네트워크 진입점으로 사용할 호스트가 필요한데, 맥 미니가 이 역할을 맡았다. [ShapeLayer/dotfiles/wireguard](https://github.com/ShapeLayer/dotfiles/tree/main/wireguard)
 
-맥에서 와이어가드 데몬은 자동 실행되지 않아, 직접 plist를 작성해 등록해야 한다. [wg.plist](https://github.com/ShapeLayer/dotfiles/blob/main/wireguard/client/macos/com.wireguard.wg%5Bn%5D.plist)를 참고하여 등록한다. 이 plist는 `/opt/homebrew/bin/wg-quick` 명령을 실행하는 것이 골자이다.
+맥에서 와이어가드 데몬은 자동 실행되지 않아, 직접 plist를 작성해 맥의 `init` 데몬인 `launchd`에 등록해야 한다. [wg.plist](https://github.com/ShapeLayer/dotfiles/blob/main/wireguard/client/macos/com.wireguard.wg%5Bn%5D.plist)를 참고하여 등록한다. 이 plist는 `/opt/homebrew/bin/wg-quick` 명령을 실행하는 것이 골자이다.
 
 ### 파일 서버, 배포 서버로 운용
 
