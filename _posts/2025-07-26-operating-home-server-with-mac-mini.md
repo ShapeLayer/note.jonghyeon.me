@@ -14,7 +14,7 @@ tags: [report]
 
 24시간 동작하는 서버 환경이 사실 모든 시스템에 적대적인 환경인 것은 사실이나, 맥 시스템은 특히나 서버로 운용하기에는 상당히 우려스러운 부분이 많다. 맥 미니도 결코 저렴하지는 않기 때문에 홈 서버로 채택하기 전에 고려해야할 점이 있다.
 
-커널에서 [fsync(2) 시스템 콜](https://developer.apple.com/library/archive/documentation/System/Conceptual/ManPages_iPhoneOS/man2/fsync.2.html)은 디스크 동기화 동작에서 거짓말을 하도록 구현되어있다. [#1](https://news.ycombinator.com/item?id=30370551) [#2](https://web.archive.org/web/20220217073532/https://twitter.com/marcan42/status/1494213855387734019) 속도를 위해 안정성을 포기하여서, 운이 좋지 않다면 정전 상항에서 데이터를 잃을 수 있다. 최소한 다른 OS에서는 보지 못한 구현이다.
+커널에서 [fsync(2) 시스템 콜](https://developer.apple.com/library/archive/documentation/System/Conceptual/ManPages_iPhoneOS/man2/fsync.2.html)은 디스크 동기화 동작에서 거짓말을 하도록 구현되어있다. [#1](https://news.ycombinator.com/item?id=30370551) [#2](https://web.archive.org/web/20220217073532/https://twitter.com/marcan42/status/1494213855387734019) 속도를 위해 안정성을 포기하여서, 운이 좋지 않다면 정전 상항에서 데이터를 잃을 수 있다. 다른 OS에서는 보지 못한 놀라운 방법의 구현이다.
 
 널리 퍼진 의견들을 살펴보면 애플 실리콘 칩의 높은 전성비가 높은 성능으로 동치되는 경향도 있는데, 이 역시 다시 생각해보아야 한다. 애플 실리콘 칩 성능의 핵심은 맥 시스템에서 주로 이루어지는 작업들을 하드웨어 가속기로 처리하면서 성능 향상을 도모하는 것이지, 칩 자체의 순수 성능이 다른 데스크톱 프로세서에 비해 월등한 것이 아니다.
 
