@@ -6,6 +6,15 @@ categories: [algorithm]
 tags: [ps, baekjoon, algorithm]
 ---
 
+<style>
+  mjx-mspace {
+    display: block;
+  }
+  mjx-container mjx-math {
+    padding: 1px 0 !important;
+  }
+</style>
+
 ## 도입
 동적 계획법(DP; Dynamic Programming)은 계산한 값을 임시로 기록해두었다가, 이후에 다른 계산에 활용하는 최적화 전략이다.
 
@@ -34,8 +43,8 @@ tags: [ps, baekjoon, algorithm]
 
 $$
 F_n = \begin{cases}
-F_0 = 0 \\\\
-F_1 = 1 \\\\
+F_0 = 0 \\
+F_1 = 1 \\
 F_{n-1} + F_{n-2} & (n > 2)
 \end{cases}
 $$
@@ -165,14 +174,17 @@ _[백준 온라인 저지, 9461번: 파도반 수열](https://www.acmicpc.net/pr
 $$
 P_n = P_{n - 2} + P_{n - 3}
 $$
+
 수열에 따라서는 또 다른 식을 찾을 수도 있다. 파도반 수열도 오랜 연구를 거치면서 다양한 변형 수식이 등장했다.
 
 $$
 P_n=P_{n - 1} + P_{n - 5}
 $$
+
 $$
 P_n=P_{n + 3} - P_{n + 1}
 $$
+
 ## 마무리
 동적 계획법은 문제 상황을 재귀적으로 계산함으로써 해결할 수 있는 점화식, 다시 말해 관계식을 도출하여, 중간 계산 산출물을 캐싱하는 알고리즘 유형이다.
 
