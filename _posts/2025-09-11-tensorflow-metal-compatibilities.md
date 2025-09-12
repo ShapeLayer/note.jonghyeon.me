@@ -202,6 +202,14 @@ tags: [python, machine-learning, tensorflow, tensorflow-metal, macos]
 
 <br />
 
+<style>
+  .rouge-code pre {
+    white-space: pre-wrap;
+    word-break: break-all;
+    overflow: auto;
+  }
+</style>
+
 <sup>1</sup> <code>Library not loaded: @rpath/_pywrap_tensorflow_internal.so</code>
 
 ```
