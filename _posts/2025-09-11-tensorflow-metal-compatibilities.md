@@ -20,7 +20,9 @@ tags: [python, machine-learning, tensorflow, tensorflow-metal, macos]
 
 <br />
 
-이번에 맥북을 초기화하고 다시 환경을 잡으면서, PyPI `tensorflow-metal` 레포 README의 호환성 표와 실제가 조금 맞지 않는다는 것을 확인했다.  
+![](/static/posts/2025-09-11-tensorflow-metal-compatibilities/pypi-description-compatibilities-table.png)
+
+이번에 맥북을 초기화하고 다시 환경을 잡으면서, [PyPI `tensorflow-metal` 레포 디스크립션의 호환성 표](https://pypi.org/project/tensorflow-metal/)가 실제와 조금 맞지 않는다는 것을 확인했다.  
 
 그래서 호환성 표에 근거하여 직접 여러 버전 조합의 호환성을 검증했다.
 
@@ -190,7 +192,7 @@ tags: [python, machine-learning, tensorflow, tensorflow-metal, macos]
   </tbody>
 </table>
 
-<sup>*</sup> PyPI `tensorflow-metal` README의 [호환성 표](https://pypi.org/project/tensorflow-metal/)에 표기된 호환 여부.  
+<sup>*</sup> PyPI `tensorflow-metal` 프로젝트 디스크립션의 [호환성 표](https://pypi.org/project/tensorflow-metal/)에 표기된 호환 여부.  
 ⚠️ 표기는 `tensorflow-metal==1.1.0`의 비고란에 `Fixes compatibility with 2.18+ TF versions`으로 표기되어, 공식적인 호환 여부가 모호한 것임.
 
 <sup>**</sup> Python 3.10 (Python 3.10.18 Jun 5 2025 [Clang 14.0.6])
