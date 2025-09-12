@@ -47,6 +47,7 @@ tags: [python, machine-learning, tensorflow, tensorflow-metal, macos]
   .content-table th, 
   .content-table td {
     text-align: center;
+    vertical-align: middle;
   }
 </style>
 
