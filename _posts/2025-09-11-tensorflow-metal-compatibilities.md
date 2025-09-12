@@ -204,9 +204,9 @@ tags: [python, machine-learning, tensorflow, tensorflow-metal, macos]
 
 <style>
   .rouge-code pre {
-    white-space: pre-wrap;
-    word-break: break-all;
-    overflow: auto;
+    white-space: pre-wrap !important;
+    word-break: break-all !important;
+    overflow: auto !important;
   }
 </style>
 
