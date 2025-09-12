@@ -50,6 +50,8 @@ tags: [python, machine-learning, tensorflow, tensorflow-metal, macos]
   }
 </style>
 
+<p style="text-align: right;"><i>2025-09-12 (금) 기준</i></p>
+
 <table class="table content-table">
   <thead>
     <tr>
