@@ -44,12 +44,13 @@ tags: [python, machine-learning, tensorflow, tensorflow-metal, macos]
 - macOS Sequoia 15.6.1 24G90
 
 <style>
-  th, td {
+  .content-table th, 
+  .content-table td {
     text-align: center;
   }
 </style>
 
-<table>
+<table class="table content-table">
   <thead>
     <tr>
       <th>Python</th>
