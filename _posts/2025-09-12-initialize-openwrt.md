@@ -87,6 +87,23 @@ config wireguard_wg0
 
 `/etc/config/firewall`
 ```
+config zone
+        option name 'vpn'
+        option input 'ACCEPT'
+        option output 'ACCEPT'
+        option forward 'REJECT'
+        option mtu_fix '1'
+        list network 'wg0'
+config forwarding
+        option src 'lan'
+        option dest 'vpn'
+config forwarding
+        option src 'vpn'
+        option dest 'wan'
+config forwarding
+        option src 'vpn'
+        option dest 'lan'
+
 config rule
         option name 'allow-wireguard'
         option src 'wan'
@@ -112,3 +129,6 @@ PublicKey =
 AllowedIPs = 10.0.0.1/24
 Endpoint = public-ip:50912
 ```
+
+## 참조
+- [qquack.org](https://qquack.org/)
