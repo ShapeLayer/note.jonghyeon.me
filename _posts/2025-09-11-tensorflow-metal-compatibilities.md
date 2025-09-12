@@ -197,6 +197,8 @@ tags: [python, machine-learning, tensorflow, tensorflow-metal, macos]
 
 <sup>**</sup> Python 3.10 (Python 3.10.18 Jun 5 2025 [Clang 14.0.6])
 
+<sup>***</sup> 아래 traceback에서의 `/opt/miniconda3/envs/metal`는 miniconda3로 생성한 가상환경이다. 의존성 관리는 `python -m pip ...`로 수행하였다.  
+
 <br />
 
 <sup>1</sup> <code>Library not loaded: @rpath/_pywrap_tensorflow_internal.so</code>
