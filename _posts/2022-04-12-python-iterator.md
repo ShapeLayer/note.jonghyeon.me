@@ -6,6 +6,11 @@ categories: [python]
 tags: [python]
 ---
 
+<script>
+window.location.replace("https://blog.jonghyeon.me" + window.location.pathname + window.location.search + window.location.hash);
+</script>
+
+
 ## 도입
 
 이터레이터(Iterator)를 직역하면 반복자라는 뜻이다. 이 이터레이터는 보통 반복 가능하다(Iterable)고 한다.

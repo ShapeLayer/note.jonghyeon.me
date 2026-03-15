@@ -6,6 +6,11 @@ categories: [openwrt]
 tags: [openwrt]
 ---
 
+<script>
+window.location.replace("https://blog.jonghyeon.me" + window.location.pathname + window.location.search + window.location.hash);
+</script>
+
+
 _OpenWRT를 플래시한 후 일반적으로 많이 하게되는 작업들, 구성 파일 구조, 명령 및 opkg 패키지 일람_
 
 [Configuration files](https://openwrt.org/docs/guide-user/base-system/uci#configuration_files)  

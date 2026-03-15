@@ -6,6 +6,11 @@ categories: [gstar24]
 tags: [review, g-con24, conference, conference-summary]
 ---
 
+<script>
+window.location.replace("https://blog.jonghyeon.me" + window.location.pathname + window.location.search + window.location.hash);
+</script>
+
+
 _김병수 등, 마이크로소프트, "게임에 진심인 마이크로소프트" G-CON 2024 세션 @ G-STAR 2024_
 
 ## 도입

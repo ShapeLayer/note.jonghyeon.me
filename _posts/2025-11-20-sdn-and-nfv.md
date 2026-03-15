@@ -6,6 +6,11 @@ categories: [lecture-network]
 tags: [network, security, zero-trust]
 ---
 
+<script>
+window.location.replace("https://blog.jonghyeon.me" + window.location.pathname + window.location.search + window.location.hash);
+</script>
+
+
 _네트워크 가상화와 관련된 기술로 언급되는 SDN 또는 NFV 중 하나, 혹은 둘 다 조사하고 정리하시오._  
 
 _사가대학, 「네트워크시스템」 과목 레포트 과제_  

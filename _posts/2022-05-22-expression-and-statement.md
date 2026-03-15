@@ -6,6 +6,11 @@ categories: [language]
 tags: [language, terms]
 ---
 
+<script>
+window.location.replace("https://blog.jonghyeon.me" + window.location.pathname + window.location.search + window.location.hash);
+</script>
+
+
 ## 도입
 
 코드를 작성하다보면 구문(Statement)과 표현식(Expression)이라는 용어를 종종 접하게 된다. 이 두 용어는 비슷한 것을 지칭하는 것으로 보인다.  

@@ -6,6 +6,11 @@ categories: [gstar24]
 tags: [review, g-con24, conference, conference-summary]
 ---
 
+<script>
+window.location.replace("https://blog.jonghyeon.me" + window.location.pathname + window.location.search + window.location.hash);
+</script>
+
+
 _캐서디 거버 등, Steam, "2024년 이후의 Steam과 PC 게임" G-CON 2024 세션 @ G-STAR 2024_
 
 ## 도입

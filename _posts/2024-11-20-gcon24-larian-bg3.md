@@ -6,6 +6,11 @@ categories: [gstar24]
 tags: [review, g-con24, conference, conference-summary]
 ---
 
+<script>
+window.location.replace("https://blog.jonghyeon.me" + window.location.pathname + window.location.search + window.location.hash);
+</script>
+
+
 _모한 로우, 라리안 스튜디오, "혼돈을 받아들이기: 라리안 스튜디오의 상향식 게임 개발 접근법" G-CON 2024 세션 @ G-STAR 2024_
 
 ## 도입

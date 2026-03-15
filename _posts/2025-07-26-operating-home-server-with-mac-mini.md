@@ -6,6 +6,11 @@ categories: [report]
 tags: [report]
 ---
 
+<script>
+window.location.replace("https://blog.jonghyeon.me" + window.location.pathname + window.location.search + window.location.hash);
+</script>
+
+
 ## 도입
 
 블로그 시작 이래 지금까지 &lt;맥 미니로 홈 서버를 만들어보았습니다&gt;가 조회수 1위를 차지하고 있다. 다만 그 글은 맥 미니를 홈서버 구축을 시도하면서 내 감상을 늘어놓을 뿐이었기 때문에, 제대로 다시 정리할 필요가 있을 것 같다.

@@ -6,6 +6,11 @@ categories: [python]
 tags: [python, machine-learning, tensorflow, tensorflow-metal, macos]
 ---
 
+<script>
+window.location.replace("https://blog.jonghyeon.me" + window.location.pathname + window.location.search + window.location.hash);
+</script>
+
+
 ## 도입
 
 하위 호환성이 다소 포기된 몇몇 소프트웨어들은 의존성을 엄격히 관리해야 하게 된다. 설령 의존성을 갖는 소프트웨어라고 할지라도, 버전, 빌드에 따라서 제대로 동작하지 않는다.  

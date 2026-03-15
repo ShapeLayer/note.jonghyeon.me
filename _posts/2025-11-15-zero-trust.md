@@ -6,6 +6,11 @@ categories: [lecture-network]
 tags: [network, security, zero-trust]
 ---
 
+<script>
+window.location.replace("https://blog.jonghyeon.me" + window.location.pathname + window.location.search + window.location.hash);
+</script>
+
+
 _사가대학, 「네트워크시스템」 과목 강의노트_
 
 ## 배경

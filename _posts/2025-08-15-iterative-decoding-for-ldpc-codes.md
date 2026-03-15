@@ -6,6 +6,11 @@ categories: [communications]
 tags: [communications, ldpc, iterative-decoding]
 ---
 
+<script>
+window.location.replace("https://blog.jonghyeon.me" + window.location.pathname + window.location.search + window.location.hash);
+</script>
+
+
 ## 도입
 
 LDPC(low-density parity-check) 코드는 반복적 디코딩(iterative decoding)으로 섀넌 한계에 가까운 성능을 달성했다.

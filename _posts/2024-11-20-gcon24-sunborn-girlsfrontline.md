@@ -6,6 +6,11 @@ categories: [gstar24]
 tags: [review, g-con24, conference, conference-summary]
 ---
 
+<script>
+window.location.replace("https://blog.jonghyeon.me" + window.location.pathname + window.location.search + window.location.hash);
+</script>
+
+
 _우중, Sunborn, "다면적 감성 가치에 대한 요구 - 급변하는 환경에서 진화하는 유저들의 니즈 충족하기" G-CON 2024 세션 @ G-STAR 2024_
 
 ![](/static/posts/2024-11-20-gcon24-sunborn-girlsfrontline/IMG_9435.jpg)  

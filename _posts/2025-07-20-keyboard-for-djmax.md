@@ -6,6 +6,11 @@ categories: [report]
 tags: [report]
 ---
 
+<script>
+window.location.replace("https://blog.jonghyeon.me" + window.location.pathname + window.location.search + window.location.hash);
+</script>
+
+
 ## 도입
 
 지난 두 학기에 걸쳐 프로젝트 수업 &lt;IoT컴퓨팅&gt;와 &lt;임베디드소프트웨어&gt;를 수강하면서, 소위 디맥콘, 사볼콘 등으로 불리는 리듬게임 컨트롤러를 제작했다.  

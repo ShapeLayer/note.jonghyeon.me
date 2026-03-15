@@ -6,6 +6,11 @@ categories: [gstar24]
 tags: [review, g-con24, conference, conference-summary]
 ---
 
+<script>
+window.location.replace("https://blog.jonghyeon.me" + window.location.pathname + window.location.search + window.location.hash);
+</script>
+
+
 _요네야마 마이, "애니메이션, 일러스트레이션, 아트..." G-CON 2024 세션 @ G-STAR 2024_
 
 ## 애니메이션

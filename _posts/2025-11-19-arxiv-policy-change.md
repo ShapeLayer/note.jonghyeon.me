@@ -6,6 +6,11 @@ categories:
 tags: [arxiv]
 ---
 
+<script>
+window.location.replace("https://blog.jonghyeon.me" + window.location.pathname + window.location.search + window.location.hash);
+</script>
+
+
 ## 배경
 
 이제 arXiv CS(컴퓨터 과학) 카테고리에 리뷰 논문, 서베이 논문, 입장문은 arXiv에 투고하려면 저널이나 학회에 채택되고 동료 심사를 통과해야 한다. 제출 시 동료 심사 자료가 없다면 arXiv에서는 논문을 거부할 수 있다.  

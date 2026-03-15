@@ -6,6 +6,11 @@ categories: [gstar24]
 tags: [review, g-con24, conference, conference-summary]
 ---
 
+<script>
+window.location.replace("https://blog.jonghyeon.me" + window.location.pathname + window.location.search + window.location.hash);
+</script>
+
+
 _김용하, 넥슨게임즈, "AI 시대의 이차원 게임 개발" G-CON 2024 세션 @ G-STAR 2024_
 
 ## 도입

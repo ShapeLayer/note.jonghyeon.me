@@ -23,7 +23,7 @@ title: Notebook # the main title
 tagline: Between a student and a developer # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Between a student and a developer
+  moved: https://blog.jonghyeon.me
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://note.jonghyeon.me"

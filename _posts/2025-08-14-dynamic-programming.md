@@ -6,6 +6,11 @@ categories: [algorithm]
 tags: [ps, baekjoon, algorithm]
 ---
 
+<script>
+window.location.replace("https://blog.jonghyeon.me" + window.location.pathname + window.location.search + window.location.hash);
+</script>
+
+
 <style>
   mjx-mspace {
     display: block;

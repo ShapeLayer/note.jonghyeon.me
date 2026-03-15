@@ -6,6 +6,11 @@ categories: [gstar24]
 tags: [review, g-con24, conference, conference-summary]
 ---
 
+<script>
+window.location.replace("https://blog.jonghyeon.me" + window.location.pathname + window.location.search + window.location.hash);
+</script>
+
+
 _야마기와 마사아키, 코에이 테크모, 중년게이머 김실장, 디스이즈게임, "소울라이크 장르 열풍에 관하여 논하다" G-CON 2024 세션 @ G-STAR 2024_
 
 ## 소울라이크의 정의
