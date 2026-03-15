@@ -7,7 +7,7 @@ tags: [report]
 ---
 
 <script>
-window.location.replace("https://blog.jonghyeon.me" + window.location.pathname + window.location.search + window.location.hash);
+window.location.replace("https://blog.jonghyeon.me/posts/2024-01-11-using-macmini-as-homeserver/");
 </script>
 
 
